@@ -83,7 +83,7 @@ public class MainActivity extends AppCompatActivity {
     ArrayList<String> Title = new ArrayList<>();
     public void setData(){
         ArrayList<String> al = new ArrayList<>();
-        //C Start
+        //CD Start
         al.add("This region is well known for its rich dairy products.");
         al.add("The failure of the experiment dashed his spirits.");
         al.add("He was dazed by a heavy blow on his head.");
@@ -138,7 +138,47 @@ public class MainActivity extends AppCompatActivity {
         al.add("Marcia's career involved a dual role for her as a counselor and a teacher.");
         al.add("The two gentlemen dueled with each other for a solution of the problem.");
         al.add("We had duplicate keys for the front gate.");
-        //D Start
+        //EF Start
+        al.add("You get along with him well because he is an easygoing person.");
+        al.add("Spinach is an economical vegetable.");
+        al.add("The volcano ejected lava and ashes.");
+        al.add("The standards of living were elevated during a span of six years.");
+        al.add("The troops embarked for Normandy.");
+        al.add("The little girl was immediately embraced by her grand parents.");
+        al.add("The Abstract Expressionist Movement emerged in New York City in the 1940's.");
+        al.add("The judge was a man of eminent fairness.");
+        al.add("He made an emphatic denial of the charge against him.");
+        al.add("When you encounter difficuties, be sure to remember what I said to you.");
+        al.add("According to the librarian the encyclopedia is up-to-date.");
+        al.add("While endeavoring to find a new route to India, Columbus discovered America by accident.");
+        al.add("Nature has endowed him with great ability.");
+        al.add("Education should enhance the character as well as the min.");
+        al.add("Later, in 1940, he was enrolled in the army.");
+        al.add("Being too enthusiastic might make people dislike you.");
+        al.add("The woman claimed that she was entitled to a free lunch.");
+        al.add("We know little about his home environment.");
+        al.add("The prime minister is in some ways equivalent to the president.");
+        al.add("George Washington Carver was esteemed for his contributions in the fields of botany and chemistry.");
+        al.add("A buyer should be able to estimate the value of things.");
+        al.add("After several failures, his eventual success surprised everyone.");
+        al.add("He always has an exaggerated opinion of himself.");
+        al.add("There success exceeded all expectations.");
+        al.add("The censor excised passages from the letters.");
+        al.add("Those are the books on which he expended great energies.");
+        al.add("The doctor announced his patient would expire at midnight.");
+        al.add("Nations sometimes exploited their colonies, taking as much wealth as they could.");
+        al.add("This liquid is for external use.");
+        al.add("Many kinds of animals are now extinct.");
+
+        al.add("She has an excellect(excellent) faculty for marking friends.");
+        al.add("The fatal mistake ruined many people.");
+        al.add("After two weeks of hard labor the workers were suffering from fatigue.");
+        al.add("Farmers have to fertilize the soil to have good harvest.");
+        al.add("Fetch me the bucket when you come in the room");
+        al.add("The pictures flatter her.");
+        
+
+
         products = al.toArray(new String[al.size()]);
     }
 }
