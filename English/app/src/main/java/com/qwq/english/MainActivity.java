@@ -176,7 +176,22 @@ public class MainActivity extends AppCompatActivity {
         al.add("Farmers have to fertilize the soil to have good harvest.");
         al.add("Fetch me the bucket when you come in the room");
         al.add("The pictures flatter her.");
-        
+        al.add("Chocolate and vanilla have different flavors.");
+        al.add("They fled the country after two months of unsuccessful scheming");
+        al.add("This material is very flexible");
+        al.add("The plants you gave me are flourishing.");
+        al.add("Dirt is a dangerous foe to health.");
+        al.add("Large passenger planes often carry weather instruments with which to forecast storms.");
+        al.add("Forefathers were praised and martyrs worshipped for their contributions.");
+        al.add("Please forward this letter to your superior officer.");
+        al.add("Ignorance fosters superstiton(superstition).");
+        al.add("Thin glass is usually fragile.");
+        al.add("Fraud is involved in the election.");
+        al.add("She was frenzied by her fear every time her husband left home.");
+        al.add("It proved to be a fruitful meeting.");
+        al.add("The great artist has never been frustrated in his ambition to paint.");
+        al.add("The fundamental principles of the theory should be carefully remembered.");
+        al.add("The production of hot glass necessitates a fusion of art and technology.");
 
 
         products = al.toArray(new String[al.size()]);
